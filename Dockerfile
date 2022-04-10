@@ -7,3 +7,4 @@ RUN cp -Rv /tmp/apache-tomcat-$TOMCAT_VERSION/* /usr/local/tomcat/
 ADD https://artifact-class8am.s3.ap-south-1.amazonaws.com/SampleWebApp123%23%231.0-SNAPSHOT.war /usr/local/tomcat/webapps/
 EXPOSE 8080
 CMD /usr/local/tomcat/bin/catalina.sh run
+
