@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <body>
 <h2>War file was deployed into amazon EC2 instance using github 
 "Success"</h2>
- <h3>Docker container is craeted successfull</h3>
+ <h3>Docker container is craeted successfully with help of Jenkins</h3>
 </body>
 </html>
