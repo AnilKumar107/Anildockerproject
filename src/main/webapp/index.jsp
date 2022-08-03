@@ -10,5 +10,6 @@ String version=resource.getString("version");%>
 "Success"</h2>
  <h3>Docker container is craeted successfully with help of Jenkins</h3>
  <h3>Docker class is completed successfully without any issues</h3>
+ <h4>Dockerswarm will be started soon</h4>
 </body>
 </html>
